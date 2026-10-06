@@ -1,0 +1,1086 @@
+{
+  "director_counts": [
+    [
+      "宫崎骏 Hayao Miyazaki",
+      8
+    ],
+    [
+      "克里斯托弗·诺兰 Christopher Nolan",
+      6
+    ],
+    [
+      "史蒂文·斯皮尔伯格 Steven Spielberg",
+      6
+    ],
+    [
+      "李安 Ang Lee",
+      5
+    ],
+    [
+      "彼特·道格特 Pete Docter",
+      4
+    ],
+    [
+      "大卫·芬奇 David Fincher",
+      4
+    ],
+    [
+      "王家卫 Kar Wai Wong",
+      4
+    ],
+    [
+      "今敏 Satoshi Kon",
+      4
+    ],
+    [
+      "是枝裕和 Hirokazu Koreeda",
+      4
+    ],
+    [
+      "詹姆斯·卡梅隆 James Cameron",
+      3
+    ],
+    [
+      "朱塞佩·托纳多雷 Giuseppe Tornatore",
+      3
+    ],
+    [
+      "刘镇伟 Jeffrey Lau",
+      3
+    ],
+    [
+      "弗朗西斯·福特·科波拉 Francis Ford Coppola",
+      3
+    ],
+    [
+      "彼得·杰克逊 Peter Jackson",
+      3
+    ],
+    [
+      "姜文 Wen Jiang",
+      3
+    ],
+    [
+      "大卫·叶茨 David Yates",
+      3
+    ],
+    [
+      "昆汀·塔伦蒂诺 Quentin Tarantino",
+      3
+    ],
+    [
+      "理查德·林克莱特 Richard Linklater",
+      3
+    ],
+    [
+      "弗兰克·德拉邦特 Frank Darabont",
+      2
+    ],
+    [
+      "彼得·威尔 Peter Weir",
+      2
+    ]
+  ],
+  "director_ratings": [
+    {
+      "导演": "Chris Columbus",
+      "mean": 9.05,
+      "count": 2
+    },
+    {
+      "导演": "J·麦基·格鲁伯 J. Mackye Gruber   主...",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "Martin Scorsese",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "M·奈特·沙马兰 M. Night Shyamalan",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "Roger Allers",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "万籁鸣 Laiming Wan",
+      "mean": 9.4,
+      "count": 1
+    },
+    {
+      "导演": "严定宪 Dingxian Yan",
+      "mean": 9.2,
+      "count": 1
+    },
+    {
+      "导演": "中岛哲也 Tetsuya Nakashima",
+      "mean": 8.8,
+      "count": 2
+    },
+    {
+      "导演": "丹尼·鲍尔 Danny Boyle",
+      "mean": 8.6,
+      "count": 1
+    },
+    {
+      "导演": "乔·怀特 Joe Wright",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "乔治·库克 George Cukor",
+      "mean": 9.3,
+      "count": 1
+    },
+    {
+      "导演": "乔治·米勒 George Miller",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "乔纳森·戴米 Jonathan Demme",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "亚当·艾略特 Adam Elliot",
+      "mean": 9.0,
+      "count": 1
+    },
+    {
+      "导演": "今敏 Satoshi Kon",
+      "mean": 8.975,
+      "count": 4
+    },
+    {
+      "导演": "伦尼·阿伯拉罕森 Lenny Abrahamson",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "保罗·格林格拉斯 Paul Greengrass",
+      "mean": 8.8,
+      "count": 2
+    },
+    {
+      "导演": "克林特·伊斯特伍德 Clint Eastwood",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "克里斯·威廉姆斯 Chris Williams",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "克里斯·巴克 Chris Buck",
+      "mean": 8.5,
+      "count": 1
+    },
+    {
+      "导演": "克里斯·桑德斯 Chris Sanders",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "克里斯·桑德斯 Chris Sanders   主演...",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "克里斯·雷纳德 Chris Renaud",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "克里斯·韦奇 Chris Wedge   主演...",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "克里斯托夫·巴拉蒂 Christophe Barratier",
+      "mean": 9.3,
+      "count": 1
+    },
+    {
+      "导演": "克里斯托弗·史密斯 Christopher Smith",
+      "mean": 8.5,
+      "count": 1
+    },
+    {
+      "导演": "克里斯托弗·诺兰 Christopher Nolan",
+      "mean": 9.083333333333334,
+      "count": 6
+    },
+    {
+      "导演": "凯普·鲍尔斯 Kemp Powers",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "刘伟强",
+      "mean": 9.3,
+      "count": 1
+    },
+    {
+      "导演": "刘伟强 Andrew Lau",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "刘镇伟 Jeffrey Lau",
+      "mean": 8.966666666666667,
+      "count": 3
+    },
+    {
+      "导演": "加布里尔·穆奇诺 Gabriele Muccino",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "北野武 Takeshi Kitano",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "华森·波克彭...",
+      "mean": 8.5,
+      "count": 1
+    },
+    {
+      "导演": "卡洛斯·沙尔丹哈 Carlos Saldanha",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "卡迪亚·兰德 Kátia Lund  &nbsp...",
+      "mean": 9.0,
+      "count": 1
+    },
+    {
+      "导演": "卢卡·瓜达尼诺 Luca Guadagnino",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "史蒂文·斯皮尔伯格 Steven Spielberg",
+      "mean": 8.966666666666667,
+      "count": 6
+    },
+    {
+      "导演": "吉恩·凯利 Gene Kelly",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "吕克·贝松 Luc Besson",
+      "mean": 9.4,
+      "count": 1
+    },
+    {
+      "导演": "吴宇森 John Woo",
+      "mean": 8.7,
+      "count": 2
+    },
+    {
+      "导演": "周星驰 Stephen Chow",
+      "mean": 8.850000000000001,
+      "count": 2
+    },
+    {
+      "导演": "唐·霍尔 Don Hall",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "土井裕泰 Nobuhiro Doi",
+      "mean": 8.6,
+      "count": 1
+    },
+    {
+      "导演": "埃里克·布雷斯 Eric Bress",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "大卫·叶茨 David Yates",
+      "mean": 8.733333333333333,
+      "count": 3
+    },
+    {
+      "导演": "大卫·斯沃曼 David Silverman",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "大卫·芬奇 David Fincher",
+      "mean": 8.875,
+      "count": 4
+    },
+    {
+      "导演": "大森贵弘 Takahiro Omori",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "奉俊昊 Joon-ho Bong",
+      "mean": 8.850000000000001,
+      "count": 2
+    },
+    {
+      "导演": "奥利维·那卡什 Olivier Nakache",
+      "mean": 9.3,
+      "count": 1
+    },
+    {
+      "导演": "奥里奥尔·保罗 Oriol Paulo",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "姜文 Wen Jiang",
+      "mean": 9.033333333333333,
+      "count": 3
+    },
+    {
+      "导演": "姜炯哲 Hyeong-Cheol Kang",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "威廉·惠勒 William Wyler",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "娜丁·拉巴基 Nadine Labaki",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "宁浩 Hao Ning",
+      "mean": 8.6,
+      "count": 1
+    },
+    {
+      "导演": "安德鲁·尼科尔 Andrew Niccol",
+      "mean": 8.75,
+      "count": 2
+    },
+    {
+      "导演": "安德鲁·斯坦顿 Andrew Stanton",
+      "mean": 9.3,
+      "count": 1
+    },
+    {
+      "导演": "安迪·沃卓斯基 Andy Wachowski",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "宝拉·柯特莱西 Paola Cortellesi",
+      "mean": 9.3,
+      "count": 1
+    },
+    {
+      "导演": "宫崎骏 Hayao Miyazaki",
+      "mean": 9.0,
+      "count": 8
+    },
+    {
+      "导演": "尼克·卡索维茨 Nick Cassavetes",
+      "mean": 8.5,
+      "count": 1
+    },
+    {
+      "导演": "岩井俊二 Shunji Iwai",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "巴勃罗·贝格尔 Pablo Berger",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "巴瑞·莱文森 Barry Levinson",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "布莱恩·辛格 Bryan Singer",
+      "mean": 8.6,
+      "count": 1
+    },
+    {
+      "导演": "延尚昊 Sang-ho Yeon",
+      "mean": 8.6,
+      "count": 1
+    },
+    {
+      "导演": "弗兰克·德拉邦特 Frank Darabont",
+      "mean": 9.3,
+      "count": 2
+    },
+    {
+      "导演": "弗朗西斯·福特·科波拉 Francis Ford Coppola",
+      "mean": 9.200000000000001,
+      "count": 3
+    },
+    {
+      "导演": "弗洛里安·亨克尔·冯·多纳斯马尔克 Florian Henckel von Donnersmarck  &n...",
+      "mean": 9.2,
+      "count": 1
+    },
+    {
+      "导演": "张艺谋 Yimou Zhang",
+      "mean": 9.05,
+      "count": 2
+    },
+    {
+      "导演": "彼得·威尔 Peter Weir",
+      "mean": 9.3,
+      "count": 2
+    },
+    {
+      "导演": "彼得·拉姆齐 Peter Ramsey   主...",
+      "mean": 8.6,
+      "count": 1
+    },
+    {
+      "导演": "彼得·杰克逊 Peter Jackson",
+      "mean": 9.200000000000001,
+      "count": 3
+    },
+    {
+      "导演": "彼得·法雷里 Peter Farrelly",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "彼特·道格特 Pete Docter",
+      "mean": 8.85,
+      "count": 4
+    },
+    {
+      "导演": "徐克 Hark Tsui",
+      "mean": 8.6,
+      "count": 1
+    },
+    {
+      "导演": "忻钰坤 Yukun Xin",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "戈尔·维宾斯基 Gore Verbinski",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "托尼·凯耶 Tony Kaye",
+      "mean": 9.0,
+      "count": 1
+    },
+    {
+      "导演": "托德·菲利普斯 Todd Phillips",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "托马斯·温特伯格 Thomas Vinterberg",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "押井守 Mamoru Oshii",
+      "mean": 9.0,
+      "count": 1
+    },
+    {
+      "导演": "拉娜·沃卓斯基 Lana Wachowski",
+      "mean": 8.75,
+      "count": 2
+    },
+    {
+      "导演": "拉娜·沃卓斯基 Lana Wachowski   主...",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "拉库马·希拉尼 Rajkumar Hirani",
+      "mean": 9.2,
+      "count": 1
+    },
+    {
+      "导演": "拜伦·霍华德 Byron Howard",
+      "mean": 9.3,
+      "count": 1
+    },
+    {
+      "导演": "文牧野 Muye Wen",
+      "mean": 9.0,
+      "count": 1
+    },
+    {
+      "导演": "斯坦利·多南 Stanley Donen",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "斯坦利·库布里克 Stanley Kubrick",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "斯蒂芬·卓博斯基 Stephen Chbosky",
+      "mean": 8.6,
+      "count": 1
+    },
+    {
+      "导演": "新海诚 Makoto Shinkai",
+      "mean": 8.5,
+      "count": 1
+    },
+    {
+      "导演": "昆汀·塔伦蒂诺 Quentin Tarantino",
+      "mean": 8.799999999999999,
+      "count": 3
+    },
+    {
+      "导演": "是枝裕和 Hirokazu Koreeda",
+      "mean": 8.85,
+      "count": 4
+    },
+    {
+      "导演": "普特鹏·普罗萨卡·那·萨克那卡林 Puttipong Promsaka Na Sakolnakorn",
+      "mean": 8.5,
+      "count": 1
+    },
+    {
+      "导演": "朗·霍华德 Ron Howard",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "本·斯蒂勒 Ben Stiller",
+      "mean": 8.6,
+      "count": 1
+    },
+    {
+      "导演": "朱塞佩·托纳多雷 Giuseppe Tornatore",
+      "mean": 9.133333333333333,
+      "count": 3
+    },
+    {
+      "导演": "朴勋政 Hoon-jung Park",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "朴赞郁 Chan-wook Park",
+      "mean": 8.5,
+      "count": 1
+    },
+    {
+      "导演": "李·昂克里奇 Lee Unkrich",
+      "mean": 9.0,
+      "count": 2
+    },
+    {
+      "导演": "李力持 Lik-Chi Lee",
+      "mean": 8.8,
+      "count": 2
+    },
+    {
+      "导演": "李安 Ang Lee",
+      "mean": 8.959999999999999,
+      "count": 5
+    },
+    {
+      "导演": "李惠民 Raymond Lee",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "李濬益 Jun-ik Lee",
+      "mean": 9.3,
+      "count": 1
+    },
+    {
+      "导演": "李焕庆 Hwan-kyeong Lee",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "杨亚洲 Yazhou Yang",
+      "mean": 9.5,
+      "count": 1
+    },
+    {
+      "导演": "杨宇硕 Woo-seok Yang",
+      "mean": 9.2,
+      "count": 1
+    },
+    {
+      "导演": "杨德昌 Edward Yang",
+      "mean": 9.0,
+      "count": 2
+    },
+    {
+      "导演": "杨雅喆 Ya-che Yang",
+      "mean": 8.6,
+      "count": 1
+    },
+    {
+      "导演": "杰拉尔·乌里 Gérard Oury",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "杰茜·尼尔森 Jessie Nelson",
+      "mean": 9.0,
+      "count": 1
+    },
+    {
+      "导演": "查理·卓别林 Charles Chaplin",
+      "mean": 9.3,
+      "count": 2
+    },
+    {
+      "导演": "格斯·范·桑特 Gus Van Sant",
+      "mean": 9.0,
+      "count": 1
+    },
+    {
+      "导演": "梅尔·吉布森 Mel Gibson",
+      "mean": 8.8,
+      "count": 2
+    },
+    {
+      "导演": "森淳一 Junichi Mori",
+      "mean": 9.0,
+      "count": 2
+    },
+    {
+      "导演": "比利·怀尔德 Billy Wilder",
+      "mean": 9.6,
+      "count": 1
+    },
+    {
+      "导演": "汉内斯·赫尔姆 Hannes Holm",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "泷田洋二郎 Yôjirô Takita",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "洛芙琳·坦丹 Loveleen Tandan",
+      "mean": 8.6,
+      "count": 1
+    },
+    {
+      "导演": "涅提·蒂瓦里 Nitesh Tiwari",
+      "mean": 9.0,
+      "count": 1
+    },
+    {
+      "导演": "爱德华·兹威克 Edward Zwick",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "特奥多尔·梅尔菲 Theodore Melfi",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "特瑞·乔治 Terry George",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "王家卫 Kar Wai Wong",
+      "mean": 8.8,
+      "count": 4
+    },
+    {
+      "导演": "王晶 Jing Wong",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "王树忱 Shuchen Wang",
+      "mean": 9.2,
+      "count": 2
+    },
+    {
+      "导演": "珍妮弗·李 Jennifer Lee",
+      "mean": 8.5,
+      "count": 1
+    },
+    {
+      "导演": "理查德·林克莱特 Richard Linklater",
+      "mean": 8.866666666666667,
+      "count": 3
+    },
+    {
+      "导演": "理查德·柯蒂斯 Richard Curtis",
+      "mean": 8.65,
+      "count": 2
+    },
+    {
+      "导演": "瑞奇·摩尔 Rich Moore",
+      "mean": 9.3,
+      "count": 1
+    },
+    {
+      "导演": "瑞奇·莫尔 Rich Moore",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "皮艾尔·柯芬 Pierre Coffin",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "盖·里奇 Guy Ritchie",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "神山征二郎 Seijirô Kôyama",
+      "mean": 9.2,
+      "count": 1
+    },
+    {
+      "导演": "科克·德·米科 Kirk De Micco",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "程小东 Siu-Tung Ching",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "米林宏昌 Hiromasa Yonebayashi",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "米洛斯·福尔曼 Miloš Forman",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "维克多·弗莱明 Victor Fleming",
+      "mean": 9.3,
+      "count": 1
+    },
+    {
+      "导演": "罗伯·明可夫 Rob Minkoff",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "罗伯·莱纳 Rob Reiner",
+      "mean": 8.899999999999999,
+      "count": 2
+    },
+    {
+      "导演": "罗伯托·贝尼尼 Roberto Benigni",
+      "mean": 9.5,
+      "count": 1
+    },
+    {
+      "导演": "罗伯特·怀斯 Robert Wise",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "罗伯特·泽米吉斯 Robert Zemeckis",
+      "mean": 9.5,
+      "count": 1
+    },
+    {
+      "导演": "罗启锐 Alex Law",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "罗曼·波兰斯基 Roman Polanski",
+      "mean": 9.3,
+      "count": 1
+    },
+    {
+      "导演": "罗纳尔多·德尔·卡门 Ronaldo Del Carmen  &nb...",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "肯尼斯·罗纳根 Kenneth Lonergan",
+      "mean": 8.6,
+      "count": 1
+    },
+    {
+      "导演": "艾力克·托兰达 Eric Toledano   主...",
+      "mean": 9.3,
+      "count": 1
+    },
+    {
+      "导演": "茂文·勒鲁瓦 Mervyn LeRoy",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "莉莉·沃卓斯基 Lilly Wachowski   ...",
+      "mean": 8.75,
+      "count": 2
+    },
+    {
+      "导演": "莫滕·泰杜姆 Morten Tyldum",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "莱塞·霍尔斯道姆 Lasse Hallström",
+      "mean": 9.4,
+      "count": 1
+    },
+    {
+      "导演": "蒂姆·波顿 Tim Burton",
+      "mean": 8.75,
+      "count": 2
+    },
+    {
+      "导演": "藤森雅也 Masaya Fujimori",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "西德尼·吕美特 Sidney Lumet",
+      "mean": 9.4,
+      "count": 1
+    },
+    {
+      "导演": "詹姆斯·卡梅隆 James Cameron",
+      "mean": 9.033333333333333,
+      "count": 3
+    },
+    {
+      "导演": "詹姆斯·曼高德 James Mangold",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "詹姆斯·沃德·布柯特 James Ward Byrkit",
+      "mean": 8.6,
+      "count": 1
+    },
+    {
+      "导演": "詹姆斯·温 James Wan",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "让-皮埃尔·热内 Jean-Pierre Jeunet",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "让-马克·瓦雷 Jean-Marc Vallée",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "谢晋 Jin Xie",
+      "mean": 9.4,
+      "count": 2
+    },
+    {
+      "导演": "谢添 Tian Xie",
+      "mean": 9.5,
+      "count": 1
+    },
+    {
+      "导演": "贝纳尔多·贝托鲁奇 Bernardo Bertolucci",
+      "mean": 9.3,
+      "count": 1
+    },
+    {
+      "导演": "费尔南多·梅里尔斯 Fernando Meirelles",
+      "mean": 9.0,
+      "count": 1
+    },
+    {
+      "导演": "赛尔乔·莱翁内 Sergio Leone",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "路易·西霍尤斯 Louie Psihoyos",
+      "mean": 9.3,
+      "count": 1
+    },
+    {
+      "导演": "达伦·阿罗诺夫斯基 Darren Aronofsky",
+      "mean": 8.6,
+      "count": 1
+    },
+    {
+      "导演": "达米安·斯兹弗隆 Damián Szifron",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "达米恩·查泽雷 Damien Chazelle",
+      "mean": 8.5,
+      "count": 2
+    },
+    {
+      "导演": "迈克·内威尔 Mike Newell",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "近藤喜文 Yoshifumi Kondo",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "迪恩·德布洛斯 Dean DeBlois",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "邓肯·琼斯 Duncan Jones",
+      "mean": 8.6,
+      "count": 1
+    },
+    {
+      "导演": "金秉祐 Byeong-woo Kim",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "钱运达 Yunda Qian",
+      "mean": 9.2,
+      "count": 1
+    },
+    {
+      "导演": "阿兰·葛斯彭纳 Alain Gsponer",
+      "mean": 9.3,
+      "count": 1
+    },
+    {
+      "导演": "阿尔弗雷德·希区柯克 Alfred Hitchcock",
+      "mean": 9.0,
+      "count": 1
+    },
+    {
+      "导演": "阿德里安·莫利纳 Adrian Molina",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "阿方索·卡隆 Alfonso Cuarón",
+      "mean": 9.0,
+      "count": 1
+    },
+    {
+      "导演": "陆川 Chuan Lu",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "陈凯歌 Kaige Chen",
+      "mean": 9.6,
+      "count": 1
+    },
+    {
+      "导演": "陈可辛 Peter Chan",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "雷德利·斯科特 Ridley Scott",
+      "mean": 8.75,
+      "count": 2
+    },
+    {
+      "导演": "韦斯·安德森 Wes Anderson",
+      "mean": 8.9,
+      "count": 1
+    },
+    {
+      "导演": "马丁·布莱斯 Martin Brest",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "马丁·麦克唐纳 Martin McDonagh",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "马克·赫尔曼 Mark Herman",
+      "mean": 9.2,
+      "count": 1
+    },
+    {
+      "导演": "马基德·马基迪 Majid Majidi",
+      "mean": 9.2,
+      "count": 1
+    },
+    {
+      "导演": "鲍勃·佩尔西凯蒂 Bob Persichetti",
+      "mean": 8.6,
+      "count": 1
+    },
+    {
+      "导演": "鲍勃·彼德森 Bob Peterson",
+      "mean": 9.1,
+      "count": 1
+    },
+    {
+      "导演": "麦兆辉",
+      "mean": 9.3,
+      "count": 1
+    },
+    {
+      "导演": "麦兆辉 Alan Mak",
+      "mean": 8.8,
+      "count": 1
+    },
+    {
+      "导演": "黄东赫 Dong-hyuk Hwang",
+      "mean": 9.3,
+      "count": 1
+    },
+    {
+      "导演": "黄信尧 Hsin-yao Huang",
+      "mean": 8.7,
+      "count": 1
+    },
+    {
+      "导演": "黄建新 Jianxin Huang",
+      "mean": 9.5,
+      "count": 1
+    },
+    {
+      "导演": "黑泽明 Akira Kurosawa",
+      "mean": 9.05,
+      "count": 2
+    }
+  ]
+}
