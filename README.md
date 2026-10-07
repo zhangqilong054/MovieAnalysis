@@ -15,6 +15,20 @@
   - 🎯 电影推荐（按类型/地区/评分推荐）
   - ☁️ 词云分析（短评/类型/导演/主演词云）
 
+## 📸 应用预览
+
+**数据概览**：评分分布 + 全量数据表
+
+![数据概览](docs/screenshots/01-overview.png)
+
+**类型分析**：类型分布饼图 + 各类型平均评分排名
+
+![类型分析](docs/screenshots/02-genre.png)
+
+**词云分析**：经典短评词云
+
+![词云分析](docs/screenshots/03-wordcloud.png)
+
 ## 🛠️ 技术栈
 
 | 分类 | 技术 |
@@ -90,3 +104,5 @@ streamlit run app.py
 - 爬虫运行时每页间隔 5 秒，请勿频繁请求，遵守网站 robots 协议
 - 词云功能依赖系统中文字体（默认使用 `C:/Windows/Fonts/simhei.ttf`），Linux 环境需自行配置
 - 如已有 `data/raw_data.csv`，可跳过爬虫步骤直接运行预处理
+- **主演字段限制**：豆瓣 Top250 列表页的"主演"被固定长度截断（如 `莱昂纳多·迪卡普里奥 Leonardo...`），末尾的 `/...` 或 `...` 占位符已在 `spider.py` 与 `preprocess.py` 中过滤，因此主演词云/排行榜仅基于截断后的文本；如需完整主演名单需抓取详情页，但豆瓣详情页有反爬校验，本项目未实现
+- **Streamlit 版本**：可视化使用 `width='stretch'` 参数，需 Streamlit ≥ 1.55（旧版请改回 `use_container_width=True`）

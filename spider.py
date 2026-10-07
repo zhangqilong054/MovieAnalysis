@@ -88,6 +88,11 @@ class DoubanSpider:
                             director_part = director_cast_line.replace("导演:", "").strip()
                             cast = ""
                         director = director_part
+                        # 豆瓣列表页的"主演"被固定长度截断，末尾会带 "/..." 占位符，
+                        # 这里去掉该占位符，避免污染后续主演统计（详情页可拿完整主演，
+                        # 但豆瓣详情页有反爬校验，列表页抓取时无法补全）
+                        cast = re.sub(r"\s*/\s*\.{3,}\s*$", "", cast).strip()
+                        cast = re.sub(r"\s*\.{3,}\s*$", "", cast).strip()
                     if len(contents) >= 2:
                         # 第二行：年份 / 国家 / 类型
                         meta_line = contents[1].replace("\xa0", " ")

@@ -26,20 +26,20 @@ def create_bar_chart(x_data, y_data, title, x_label, y_label, orientation='h', x
     fig.update_layout(title_x=0.5, template='plotly_white')
     if x_range:
         fig.update_xaxes(range=x_range)
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width='stretch')
 
 def create_line_chart(x_data, y_data, title, x_label, y_label, color='orange'):
     #创建折线图
     fig = px.line(x=x_data, y=y_data, title=title, labels={'x': x_label, 'y': y_label},
                   markers=True, color_discrete_sequence=[color], height=400)
     fig.update_layout(title_x=0.5, template='plotly_white', xaxis_tickangle=-45)
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width='stretch')
 
 def create_pie_chart(values, names, title):
     #创建饼图
     fig = px.pie(values=values, names=names, title=title, hole=0.3, height=450)
     fig.update_layout(title_x=0.5, template='plotly_white')
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width='stretch')
 
 def create_wordcloud(word_freq, title, colormap='viridis', max_words=100):
     #创建词云
@@ -63,10 +63,10 @@ def tab_overview(data):
                   title='电影评分分布', labels={'x': '评分', 'y': '电影数量'},
                   color_discrete_sequence=['skyblue'], height=400)
     fig.update_layout(title_x=0.5, template='plotly_white')
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width='stretch')
     
     st.write("### 数据总览")
-    st.dataframe(data['raw_df'], use_container_width=True)
+    st.dataframe(data['raw_df'], width='stretch')
 
 def tab_region(data):
     #国家/地区分析
@@ -113,7 +113,7 @@ def tab_year(data):
     fig = px.bar(x=list(decade_counts.keys()), y=list(decade_counts.values()),
                  title='各年代电影数量分布', labels={'x': '年代', 'y': '电影数量'}, height=400)
     fig.update_layout(title_x=0.5, template='plotly_white', xaxis_tickangle=-45)
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width='stretch')
 
 def tab_director(data):
     #导演分析
@@ -134,7 +134,7 @@ def tab_director(data):
     st.write("### 导演详细信息")
     director_df = pd.DataFrame([{'导演': d['导演'], '平均评分': round(d['mean'], 2), '电影数量': int(d['count'])} 
                                for d in director_avg])
-    st.dataframe(director_df, use_container_width=True, height=300)
+    st.dataframe(director_df, width='stretch', height=300)
 
 def tab_recommend(data):
     #电影推荐
@@ -151,7 +151,7 @@ def tab_recommend(data):
         if movies:
             movie_df = pd.DataFrame(movies)[['排名', '中文片名', '评分', '年份']]
             st.write(f"#### {selected}类型高分电影（共{len(movies)}部）")
-            st.dataframe(movie_df, use_container_width=True, height=400)
+            st.dataframe(movie_df, width='stretch', height=400)
     
     elif recommend_type == "按国家/地区推荐":
         regions = sorted(data['region_stats']['single_region_counts'].keys())
@@ -161,7 +161,7 @@ def tab_recommend(data):
         if not movies.empty:
             st.write(f"#### {selected}高分电影（共{len(movies)}部）")
             st.dataframe(movies[['排名', '中文片名', '评分', '年份', '类型', '导演']], 
-                        use_container_width=True, height=400)
+                        width='stretch', height=400)
     
     else:
         min_rating = st.slider("最低评分", 8.0, 10.0, 9.0, 0.1)
@@ -170,7 +170,7 @@ def tab_recommend(data):
         if not movies.empty:
             st.write(f"#### 评分≥{min_rating}的电影（共{len(movies)}部）")
             st.dataframe(movies[['排名', '中文片名', '评分', '年份', '类型', '国家/地区']], 
-                        use_container_width=True, height=400)
+                        width='stretch', height=400)
 
 def tab_wordcloud(data):
     #词云分析
@@ -238,20 +238,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-
-
-
-
-基于 Streamlit + Plotly 的 Web 应用，已实现：
-
-爬虫（
-spider.py
-）：爬取豆瓣 Top250，解析排名/片名/评分/年份/国家/导演/主演/短评，保存为 CSV
-预处理（
-preprocess.py
-）：生成基础统计、地区/类型/年份/导演/主演分析、词云数据、推荐数据，共8个JSON文件
-可视化（
-app.py
-）：7个标签页 — 数据概览、国家/地区分析、类型分析、年份分析、导演分析、电影推荐、词云分析，支持柱状图/折线图/饼图/词云

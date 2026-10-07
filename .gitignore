@@ -26,6 +26,5 @@ desktop.ini
 # Logs
 *.log
 
-# Data (optional: uncomment if you don't want to commit data)
-# data/raw_data.csv
-# data/preprocessed/
+# 数据清洗前的临时备份，不纳入版本管理
+data/*.backup_*.csv

@@ -149,18 +149,13 @@
     },
     {
       "导演": "亚当·艾略特 Adam Elliot",
-      "mean": 9.0,
+      "mean": 8.9,
       "count": 1
     },
     {
       "导演": "今敏 Satoshi Kon",
       "mean": 8.975,
       "count": 4
-    },
-    {
-      "导演": "伦尼·阿伯拉罕森 Lenny Abrahamson",
-      "mean": 8.7,
-      "count": 1
     },
     {
       "导演": "保罗·格林格拉斯 Paul Greengrass",
@@ -389,7 +384,7 @@
     },
     {
       "导演": "宫崎骏 Hayao Miyazaki",
-      "mean": 9.0,
+      "mean": 9.0125,
       "count": 8
     },
     {
@@ -464,7 +459,7 @@
     },
     {
       "导演": "彼特·道格特 Pete Docter",
-      "mean": 8.85,
+      "mean": 8.875,
       "count": 4
     },
     {
@@ -479,7 +474,7 @@
     },
     {
       "导演": "戈尔·维宾斯基 Gore Verbinski",
-      "mean": 8.8,
+      "mean": 8.9,
       "count": 1
     },
     {
@@ -584,7 +579,7 @@
     },
     {
       "导演": "朴赞郁 Chan-wook Park",
-      "mean": 8.5,
+      "mean": 8.6,
       "count": 1
     },
     {
@@ -619,7 +614,7 @@
     },
     {
       "导演": "杨亚洲 Yazhou Yang",
-      "mean": 9.5,
+      "mean": 9.4,
       "count": 1
     },
     {
@@ -729,7 +724,7 @@
     },
     {
       "导演": "理查德·林克莱特 Richard Linklater",
-      "mean": 8.866666666666667,
+      "mean": 8.833333333333334,
       "count": 3
     },
     {
@@ -824,7 +819,7 @@
     },
     {
       "导演": "罗纳尔多·德尔·卡门 Ronaldo Del Carmen  &nb...",
-      "mean": 8.8,
+      "mean": 8.9,
       "count": 1
     },
     {
@@ -963,6 +958,11 @@
       "count": 1
     },
     {
+      "导演": "道格·里曼 Doug Liman",
+      "mean": 8.6,
+      "count": 1
+    },
+    {
       "导演": "邓肯·琼斯 Duncan Jones",
       "mean": 8.6,
       "count": 1
@@ -1074,7 +1074,7 @@
     },
     {
       "导演": "黄建新 Jianxin Huang",
-      "mean": 9.5,
+      "mean": 9.4,
       "count": 1
     },
     {

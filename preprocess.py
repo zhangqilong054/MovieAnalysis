@@ -89,7 +89,8 @@ print("[OK] 导演分析完成")
 cast_list = []
 for c in df['主演']:
     cast_list.extend(str(c).split('/'))
-cast_list = [c.strip() for c in cast_list if c.strip()]
+# 过滤爬虫截断产生的 "..."、空值 "nan" 与空串
+cast_list = [c.strip() for c in cast_list if c.strip() and c.strip() != '...' and c.strip().lower() != 'nan']
 cast_stats = {
     "cast_counts": Counter(cast_list).most_common(20)
 }
